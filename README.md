@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshusalve16
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning c programming along with some web development as side hustle 
+- 🌱 I’m currently learning some web development as side hustle 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
