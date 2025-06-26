@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F37002&width=500&lines=Full-Stack+Web+Developer;I+build+dynamic+and+responsive+web+apps;Open+for+collaborations+%26+tech+discussions!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F37002&width=800&lines=Full-Stack+Web+Developer;I+build+dynamic+and+responsive+web+apps;Open+for+collaborations+%26+tech+discussions!" alt="Typing SVG" />
 </p>
 
 ---
