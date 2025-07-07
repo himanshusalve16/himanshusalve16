@@ -54,7 +54,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&theme=radical" /><br/>
   <img src="https://streak-stats.demolab.com/?user=himanshusalve16&theme=radical" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact&theme=radical" /><br/>
+  <img src="https://komarev.com/ghpvc/?username=himanshusalve16&style=flat-square" alt="Profile views" />
 </p>
 
 ---
