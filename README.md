@@ -1,82 +1,88 @@
-<h1 align="center">Hi 👋, I'm Himanshu Salve</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h1 align="center">Hi, I'm Himanshu Salve 👋</h1>
+
+<h3 align="center">
+Engineering student focused on building practical, production-ready web applications
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F37002&width=800&lines=Full-Stack+Web+Developer;I+build+dynamic+and+responsive+web+apps;Open+for+collaborations+%26+tech+discussions!" alt="Typing SVG" />
+I learn by building, break things to understand them, and care more about clean logic and usability than hype.
 </p>
 
 ---
 
-### 🛠️ Full-Stack Tech Stack
+## 🚀 What I Do
 
-#### 👨‍💻 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-</p>
+- Develop **full-stack web applications** with modern JavaScript frameworks  
+- Build **responsive, frontend-heavy interfaces** with attention to layout and motion  
+- Write clean, maintainable code instead of quick hacks  
+- Actively preparing for **internships and software engineering roles**
 
-#### 🧠 State Management & UI
-<p>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-#### 🧰 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-#### 🗃️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
-
-#### 🧪 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+I’m early in my career, but serious about the craft.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML, CSS, JavaScript  
+- React.js, React Router  
+- Tailwind CSS  
+- Framer Motion  
+
+### State & UI Logic
+- Redux  
+- React Context API  
+
+### Backend
+- Node.js  
+- Express.js  
+- Firebase  
+
+### Database
+- MongoDB  
+- Mongoose  
+
+### Tools & Deployment
+- Git & GitHub  
+- Vercel  
+- Netlify  
+
+---
+
+## 🎯 Current Focus
+
+- Data Structures & Algorithms (Java)  
+- Building scalable React applications  
+- Strengthening core web fundamentals  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&theme=radical" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=himanshusalve16&theme=radical" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact&theme=radical" /><br/>
-  <img src="https://komarev.com/ghpvc/?username=himanshusalve16&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=himanshusalve16&theme=radical" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect With Me
 
 <p>
-  <a href="mailto:himanshusalve16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:himanshusalve16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/himanshu-salve-292a1334b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <a href="https://github.com/himanshusalve16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/himanshusalve16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-
-- I love exploring new tools and frameworks and continuously enhancing my knowledge.  
-- When I'm not coding, I'm experimenting with new tech gadgets or indulging in photography and traveling.
-
----
-
-#### Thank you for visiting my profile! 🌟
+<sub>
+No shortcuts. Just consistent improvement.
+</sub>
