@@ -71,14 +71,13 @@ I care about fundamentals because they compound.
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&hide_title=true&cache_seconds=1800" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusalve16&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshusalve16&style=flat-square" />
+  <img src="https://streak-stats.demolab.com?user=himanshusalve16" />
 </p>
 ---
 
