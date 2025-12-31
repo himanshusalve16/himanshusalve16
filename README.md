@@ -70,6 +70,17 @@ I care about fundamentals because they compound.
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshusalve16&show_icons=true&hide_border=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusalve16&layout=compact&hide_border=true&theme=default" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshusalve16&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshusalve16&style=flat-square" />
+</p>
+---
 
 ## Current Direction
 
