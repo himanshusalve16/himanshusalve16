@@ -71,9 +71,7 @@ I care about fundamentals because they compound.
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/followers/himanshusalve16?style=flat-square" />
   <img src="https://img.shields.io/github/stars/himanshusalve16?style=flat-square" />
-  <img src="https://img.shields.io/github/repos-count/himanshusalve16?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=himanshusalve16&style=flat-square" />
 </p>
 <p align="center">
