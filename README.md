@@ -78,14 +78,10 @@ I care about fundamentals because they compound.
   <img src="https://streak-stats.demolab.com?user=himanshusalve16" />
 </p>
 
-<a href="https://leetcode.com/himan16/" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif"
-    alt="LeetCode profile - himan16"
-    height="200"
-    width="200"
-  />
+<a href="https://leetcode.com/himan16/" target="_blank">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=himan16" />
 </a>
+
 
 
 ## Current Direction
